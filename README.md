@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning about the amazing abilities of Computer Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning models
 - 📫 How to reach me on Twitter is @eaztzide_. 
-Ciao
+- Ciao
 
 <!---
 Eaztzide/Eaztzide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
