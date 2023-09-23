@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Eaztzide
-- 👀 I’m interested in AI/ML and a little bit of maths
-- 🌱 I’m currently learning about the amazing world of Computer Intelligence
+- 👀 I’m interested in AI/ML and anything Python in general.
+- 🌱 I’m currently learning about the amazing abilities of Computer Intelligence
 - 💞️ I’m looking to collaborate on Machine Learning models
-- 📫 How to reach me @eaztzide_ on Twitter. 
+- 📫 How to reach me on Twitter is @eaztzide_. 
 Ciao
 
 <!---
